@@ -2,7 +2,7 @@
 
 # Srini Bala
 
-Aspiring Product Manager · Networking, AI/ML, GenAI & Observability
+Aspiring Product Manager · AI/ML, GenAI, Observability, Networking
 
 I build products at the intersection of observability platforms and AI. Portfolio, case studies, and project write-ups below.
 
